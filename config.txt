@@ -1,0 +1,3 @@
+write name of file you wish to check ids from on this line
+write name of file you wish to output available ids on this line
+ 
